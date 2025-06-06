@@ -2,7 +2,7 @@
 
  -Estudante do segundo ano do ensino médio
 
- -Colegio Estadual Helena Kolody E.M.F.
+ -Colegio Estadual Helena Kolody E.M.P.
  
  -Me desenvolvendo na linguagem do JavaScripth
  
